@@ -222,7 +222,8 @@ example to see what this might look like.
 To run the tests from different platforms in your `sandbox.test.js` file, you
 will need to refactor the test cases from whatever format they are in to use
 `describe`, `it` and `expect`. This will take some practice but will become a
-routine task. Check out the [./refactoring-tests.mp4](./example-quarter-of-the-year/refactoring-tests.mp4)
+routine task. Check out the
+[./refactoring-tests.mp4](./example-quarter-of-the-year/refactoring-tests.mp4)
 to see it live, here are the examples from the video:
 
 <details>
